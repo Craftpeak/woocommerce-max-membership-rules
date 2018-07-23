@@ -1,0 +1,15 @@
+{
+  "name"        : "craftpeak/woocommerce-max-membership-rules",
+  "description" : "A WooCommerce Memberships extension to allow a max amount of items allowed per order, per membership level, in an individual product's settings.",
+  "keywords"    : ["wordpress","woocommerce","memberships"],
+  "homepage"    : "https://github.com/Craftpeak/woocommerce-max-membership-rules/",
+  "license"     : "GPL-3.0+",
+  "type"        : "wordpress-plugin",
+  "authors"     : [
+    {
+      "name"     : "Craftpeak",
+      "email"    : "hello@craftpeak.com",
+      "homepage" : "https://craftpeak.com"
+    }
+  ]
+}
