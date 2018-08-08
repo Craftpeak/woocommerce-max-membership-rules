@@ -3,11 +3,12 @@
  * Plugin Name: WooCommerce Max Membership Rules
  * Plugin URI: https://craftpeak.com/todo
  * Description: Extends the WooCommerce Min/Max Quantities and Memberships plugins to allow defining specific item maximums per membership level on a per-product basis.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Craftpeak
  * Author URI: https://craftpeak.com
  * Requires at least: 4.0
- * Tested up to: 4.7.0
+ * Tested up to: 4.9.8
+ * Text Domain: woocommerce-max-membership-rules
  */
 
 class WC_Max_Membership_Rules {
